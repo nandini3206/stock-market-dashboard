@@ -311,7 +311,6 @@ ax2.set_ylabel("Volume")
 
 st.pyplot(fig2)
 
-st.pyplot(fig2)
 
 # ---------------- DAY-WISE STOCK DATA ----------------
 
